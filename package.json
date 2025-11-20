@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.0",
+    "@mui/material": "^7.1.0",
+    "axios": "^1.9.0",
+    "date-fns": "^4.1.0",
+    "react": "^18.2.0",
+    "react-datepicker": "^8.3.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "recharts": "^2.15.3"
+  }
+}

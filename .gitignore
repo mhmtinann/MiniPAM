@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Java / Maven
+backend/target/
+
+# Databases
+*.db
+*.mv.db
+*.trace.db
+
+# IDE
+.vscode/
+.idea/
